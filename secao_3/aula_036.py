@@ -18,3 +18,4 @@ contador **= 2
 print(contador)
 contador %= 2
 print(contador)
+print ('Acabou')
