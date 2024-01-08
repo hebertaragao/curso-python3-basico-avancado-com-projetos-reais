@@ -16,12 +16,13 @@ iter -> me entregue seu iterador
 texto = 'Hebert' #iterável
 iteratador = iter(texto) # iterator
 
-while True:
+"""while True:
     try:
         letra = next(iteratador)
         print(letra)
     except StopIteration:
         break
-
-
+"""
+for letra in texto:
+    print(letra)
 
