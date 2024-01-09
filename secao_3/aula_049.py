@@ -3,8 +3,8 @@ Listas em python
 Tipo list Mutável
 Suporta vários valores de qualquer tipo
 Conhecimentos reutilizáveis - índices e fatiamento
-Métodos úteis: a
-ppend, insert, pop, del, clear, extend, +
+Métodos úteis: 
+append, insert, pop, del, clear, extend, +
 create read update delete
 criar, ler, alterar, apagar = lista[i] (CRUD)
 """
